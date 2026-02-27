@@ -4,7 +4,7 @@ A Model Context Protocol (MCP) server using the TypeScript SDK for LinkedIn inte
 
 ## Credits
 
-Originally created by **Ken** (<kennycav93@gmail.com>). This fork extends the base project with additional LinkedIn API tools and fixes.
+Fork of [agency42/linkedin-mcp](https://github.com/agency42/linkedin-mcp), originally created by **Ken** (kennycav93@gmail.com). This fork extends the base project with additional LinkedIn API tools and fixes.
 
 ---
 
